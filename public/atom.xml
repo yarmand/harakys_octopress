@@ -2,15 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Harakys Coding Tales]]></title>
-  <link href="http://harakys_octopress.heroku.com/atom.xml" rel="self"/>
-  <link href="http://harakys_octopress.heroku.com/"/>
-  <updated>2011-11-24T00:17:51+01:00</updated>
-  <id>http://harakys_octopress.heroku.com/</id>
+  <link href="http://harakys-octopress.heroku.com/atom.xml" rel="self"/>
+  <link href="http://harakys-octopress.heroku.com/"/>
+  <updated>2011-11-24T01:14:13+01:00</updated>
+  <id>http://harakys-octopress.heroku.com/</id>
   <author>
     <name><![CDATA[Yann ARMAND]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Rework: the book from 37 signals founders]]></title>
+    <link href="http://harakys-octopress.heroku.com/blog/2011/09/05/rework-the-book-from-37-signals-founders/"/>
+    <updated>2011-09-05T00:56:00+02:00</updated>
+    <id>http://harakys-octopress.heroku.com/blog/2011/09/05/rework-the-book-from-37-signals-founders</id>
+    <content type="html"><![CDATA[<p><img src='http://harakys-octopress.heroku.com/images/post_icons/art-planningisguessing.png' class='post_icon float_left' alt='rework'></p>
+
+<p><a href="http://37signals.com/rework/">a Great book</a></p>
+
+<p>Youngest, forget what you have been teached.</p>
+
+<p>Elders, you’ll found in it the words to put on the feelings you got.</p>
+]]></content>
+  </entry>
   
 </feed>
