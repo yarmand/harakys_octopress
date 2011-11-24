@@ -2,16 +2,16 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>
-            http://harakys_octopress.heroku.com/blog/2011/09/05/rework-the-book-from-37-signals-founders/
+            http://harakys-octopress.heroku.com/blog/2011/09/05/rework-the-book-from-37-signals-founders/
         </loc>
         <lastmod>2011-11-24T01:10:38+01:00</lastmod>
     </url>
     <url>
-        <loc>http://harakys_octopress.heroku.com/blog/archives/</loc>
+        <loc>http://harakys-octopress.heroku.com/blog/archives/</loc>
         <lastmod>2011-11-24T01:10:38+01:00</lastmod>
     </url>
     <url>
-        <loc>http://harakys_octopress.heroku.com/</loc>
+        <loc>http://harakys-octopress.heroku.com/</loc>
         <lastmod>2011-11-24T01:10:38+01:00</lastmod>
     </url>
 </urlset>

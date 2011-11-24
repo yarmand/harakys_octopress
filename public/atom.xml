@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Harakys Coding Tales]]></title>
-  <link href="http://harakys_octopress.heroku.com/atom.xml" rel="self"/>
-  <link href="http://harakys_octopress.heroku.com/"/>
-  <updated>2011-11-24T01:16:38+01:00</updated>
-  <id>http://harakys_octopress.heroku.com/</id>
+  <link href="http://harakys-octopress.heroku.com/atom.xml" rel="self"/>
+  <link href="http://harakys-octopress.heroku.com/"/>
+  <updated>2011-11-24T01:21:06+01:00</updated>
+  <id>http://harakys-octopress.heroku.com/</id>
   <author>
     <name><![CDATA[Yann ARMAND]]></name>
     
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[Rework: the book from 37 signals founders]]></title>
-    <link href="http://harakys_octopress.heroku.com/blog/2011/09/05/rework-the-book-from-37-signals-founders/"/>
+    <link href="http://harakys-octopress.heroku.com/blog/2011/09/05/rework-the-book-from-37-signals-founders/"/>
     <updated>2011-09-05T00:56:00+02:00</updated>
-    <id>http://harakys_octopress.heroku.com/blog/2011/09/05/rework-the-book-from-37-signals-founders</id>
-    <content type="html"><![CDATA[<p><img src='http://harakys_octopress.heroku.com/images/post_icons/art-planningisguessing.png' class='post_icon float_left' alt='rework'></p>
+    <id>http://harakys-octopress.heroku.com/blog/2011/09/05/rework-the-book-from-37-signals-founders</id>
+    <content type="html"><![CDATA[<p><img src='http://harakys-octopress.heroku.com/images/post_icons/art-planningisguessing.png' class='post_icon float_left' alt='rework'></p>
 
 <p><a href="http://37signals.com/rework/">a Great book</a></p>
 
