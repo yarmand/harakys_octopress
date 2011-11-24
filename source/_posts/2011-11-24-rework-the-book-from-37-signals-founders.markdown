@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rework: the book from 37 signals founders"
-date: 2011-09-05 00:56
+date: 2011-06-20 09:23
 comments: true
 categories: 
 ---

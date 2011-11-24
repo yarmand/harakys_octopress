@@ -5,12 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Harakys Coding Tales</title>
+  <title>Javascript initializers to your views with Rails 3.1 and CoffeeScript - Harakys Coding Tales</title>
   <meta name="author" content="Yann ARMAND">
 
   
-  <meta name="description" content="Twitter introduced public posting and follow concept from the beginning
-and have been copied by Google+ and more recently by Facebook with the &hellip;">
+  <meta name="description" content="The Problem With the asset pipeline included in Rails 3.1, we have a great big javascript file including all at once our code. But what about code &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -19,7 +18,7 @@ and have been copied by Google+ and more recently by Facebook with the &hellip;"
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://harakys-octopress.heroku.com">
+  <link rel="canonical" href="http://harakys-octopress.heroku.com/blog/2011/09/05/javascript-initializers-to-your-views-with-rails-3-dot-1-and-coffeescript">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
@@ -61,73 +60,12 @@ and have been copied by Google+ and more recently by Facebook with the &hellip;"
 </nav>
   <div id="main">
     <div id="content">
-      <div class="blog-index">
+      <div>
+<article class="hentry" role="article">
   
-  
-  
-    <article>
-      
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2011/09/26/subject-following-to-better-filter-social-network-posts/">Subject Following to Better Filter Social Network Posts</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2011-09-26T14:26:00+02:00" pubdate data-updated="true">2011-09-26 14:26</time>
-        
-         | <a href="/blog/2011/09/26/subject-following-to-better-filter-social-network-posts/#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><img src='/images/post_icons/who_follow.png' class='post_icon float_right' alt='who follow'/>
-<a href="http://twitter.com/#!/yarmand">Twitter</a> introduced public posting and <strong>follow</strong> concept from the beginning
-and have been copied by <a href="https://plus.google.com/104135330570501675673">Google+</a> and more recently by <a href="https://www.facebook.com/yann.armand">Facebook</a> with the <a href="https://www.facebook.com/about/subscribe">subscribe button</a>.</p>
-
-<p><strong>But profile follow is a one way selectors. It partially cover the issue because it ignore that a single person produce infos on differentes domains.</strong></p>
-
-<p>As a normal human, I am curious about several subjects and I produce infos about several subjects.</p>
-
-<p>In my case, I produce informations as a software programer and as a dog trainer. These are completely unrelated subjects followed by completely different people I don&#8217;t want to bother with non accurate infos.
-To prevent that, I have to use multiple profiles and split my identity across them. It can become a nightmare or drive me Schizophrenic.</p>
-
-<p><strong>So following an identity is not enough. To be efficient we should follow somebody about subjects.</strong></p>
-
-<blockquote><p>for example I can follow <a href="http://twitter.com/#!/dhh">@DHH</a>on <em>Ruby</em> or <em>programming</em> but not on <em>skate boarding</em>.</p></blockquote>
-
-<p><strong>One social profile/identity</strong> should propose <strong>several subjects</strong> (including a <em>global</em> one).
-I should post to a subject the same way today I post to a <a href="http://www.google.com/support/plus/bin/static.py?hl=en&amp;guide=1257347&amp;page=guide.cs&amp;rd=1">google circle</a>, but as the opposite of google circles, this is not me choosing people receiving infos, <strong>this is people choosing to follow my public subjects</strong>.</p>
-
-<p><strong>This way we get the double filter of choosing the most interesting people only on subject we care about.</strong></p>
-
-<p>The main drawback of this method is to reduce <a href="http://en.wikipedia.org/wiki/Serendipity">Serendipity</a> which is the life of the internet. As a first response, I should say that every infos producer will have the responsibility of posting unrelated infos on subjects at a frequency acceptable to his followers.</p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2011/09/05/javascript-initializers-to-your-views-with-rails-3-dot-1-and-coffeescript/">Javascript Initializers to Your Views With Rails 3.1 and CoffeeScript</a></h1>
+      <h1 class="entry-title">Javascript Initializers to Your Views With Rails 3.1 and CoffeeScript</h1>
     
     
       <p class="meta">
@@ -145,14 +83,14 @@ I should post to a subject the same way today I post to a <a href="http://www.go
 
 <time datetime="2011-09-05T08:56:00+02:00" pubdate data-updated="true">2011-09-05 08:56</time>
         
-         | <a href="/blog/2011/09/05/javascript-initializers-to-your-views-with-rails-3-dot-1-and-coffeescript/#disqus_thread">Comments</a>
+         | <a href="#disqus_thread">Comments</a>
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><h1>The Problem</h1>
+<div class="entry-content"><h1>The Problem</h1>
 
 <p>With the asset pipeline included in Rails 3.1, we have a great big javascript file including all at once our code.</p>
 
@@ -403,22 +341,16 @@ I should post to a subject the same way today I post to a <a href="http://www.go
 </ul>
 
 </div>
-  
-  
 
 
-    </article>
-  
-  
-    <article>
+  <footer>
+    <p class="meta">
       
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2011/06/20/rework-the-book-from-37-signals-founders/">Rework: The Book From 37 Signals Founders</a></h1>
-    
-    
-      <p class="meta">
-        
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Yann ARMAND</span></span>
+
+      
 
 
 
@@ -430,35 +362,40 @@ I should post to a subject the same way today I post to a <a href="http://www.go
   
 
 
-<time datetime="2011-06-20T09:23:00+02:00" pubdate data-updated="true">2011-06-20 09:23</time>
-        
-         | <a href="/blog/2011/06/20/rework-the-book-from-37-signals-founders/#disqus_thread">Comments</a>
-        
-      </p>
+<time datetime="2011-09-05T08:56:00+02:00" pubdate data-updated="true">2011-09-05 08:56</time>
+      
+
+
+    </p>
     
-  </header>
-
-
-  <div class="entry-content"><p><img src='/images/post_icons/art-planningisguessing.png' class='post_icon float_left' alt='rework'></p>
-
-<p><a href="http://37signals.com/rework/">a Great book</a></p>
-
-<p>Youngest, forget what you have been teached.</p>
-
-<p>Elders, you’ll found in it the words to put on the feelings you got.</p>
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://harakys-octopress.heroku.com/blog/2011/09/05/javascript-initializers-to-your-views-with-rails-3-dot-1-and-coffeescript/" data-via="" data-counturl="http://harakys-octopress.heroku.com/blog/2011/09/05/javascript-initializers-to-your-views-with-rails-3-dot-1-and-coffeescript/" >Tweet</a>
+  
+  
+  
 </div>
-  
-  
 
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2011/06/20/rework-the-book-from-37-signals-founders/" title="Previous Post: Rework: the book from 37 signals founders">&laquo; Rework: the book from 37 signals founders</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2011/09/26/subject-following-to-better-filter-social-network-posts/" title="next Post: Subject Following to better filter social network posts">Subject Following to better filter social network posts &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
 
-    </article>
-  
-  <div class="pagination">
-    
-    <a href="/blog/archives">Blog Archives</a>
-    
-  </div>
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 </div>
+  </section>
+
+</div>
+
 <aside class="sidebar">
   
     <section>
@@ -488,6 +425,7 @@ I should post to a subject the same way today I post to a <a href="http://www.go
   
 </aside>
 
+
     </div>
   </div>
   <footer role="contentinfo"><p>
@@ -502,7 +440,10 @@ I should post to a subject the same way today I post to a <a href="http://www.go
       var disqus_shortname = 'harakys-octopress';
       
         
-        var disqus_script = 'count.js';
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://harakys-octopress.heroku.com/blog/2011/09/05/javascript-initializers-to-your-views-with-rails-3-dot-1-and-coffeescript/';
+        var disqus_url = 'http://harakys-octopress.heroku.com/blog/2011/09/05/javascript-initializers-to-your-views-with-rails-3-dot-1-and-coffeescript/';
+        var disqus_script = 'embed.js';
       
     (function () {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
