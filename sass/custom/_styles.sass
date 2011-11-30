@@ -1,5 +1,15 @@
 /* This File is imported last, and will override other styles in the cascade */
 /* Add styles here to make changes without digging in too much */
 
-body
-  background: image-url('/images/paperTextureBgTile.png')
+$dark_red: #622
+
+header[role=banner]
+  background: inherit
+
+.entry-title
+  background-color: lightgrey
+  border-top: solid $dark_red 2px
+  border-bottom: solid $dark_red 2px
+  
+.blog-index > article
+  border-bottom: solid $dark_red 1px
