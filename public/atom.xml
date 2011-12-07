@@ -4,7 +4,7 @@
   <title><![CDATA[Harakys Coding Tales]]></title>
   <link href="http://harakys-octopress.heroku.com/atom.xml" rel="self"/>
   <link href="http://harakys-octopress.heroku.com/"/>
-  <updated>2011-11-30T21:18:49+01:00</updated>
+  <updated>2011-12-07T15:32:10+01:00</updated>
   <id>http://harakys-octopress.heroku.com/</id>
   <author>
     <name><![CDATA[Yann ARMAND]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Pour une vrai popularité représentée par l'indice TIOBE]]></title>
+    <link href="http://harakys-octopress.heroku.com/blog/2011/12/07/pour-une-vrai-popularite-representee-par-lindice-tiobe/"/>
+    <updated>2011-12-07T15:17:00+01:00</updated>
+    <id>http://harakys-octopress.heroku.com/blog/2011/12/07/pour-une-vrai-popularite-representee-par-lindice-tiobe</id>
+    <content type="html"><![CDATA[<p><img src="http://harakys-octopress.heroku.com/images/post_icons/tiobe.png" class="post_icon float_left" alt="Tiobe icon"></p>
+
+<p><a href="http://www.camilleroux.com/">Camile Roux</a> nous indique sur <a href="http://rubylive.fr/items/157-ruby-toujours-11eme-au-classement-tiobe">RubyLive</a> que Ruby conserve sa 11eme place, juste derrière Javascript au classement <a href="www.tiobe.com">TIOBE</a></p>
+
+<p>Le classement TIOBE utilise le mot popularité mais je pense que celui-ci est dévoyé dans ce cas.
+L&#8217;indice TIOBE mesure le nombre d&#8217;ingénieurs disponibles et ce nombre ne représente pas la joie que chacun éprouve dans tel ou tel langage.
+Il reflète simplement la <em>demande du marché</em>.</p>
+
+<p>Je pense que de nombreux programmeurs ont un langage de prédilection pour leur activité professionnel mais cela ne reflète pas forcément leur goût.</p>
+
+<p>Dans mon cas, je suis un gars plutôt pointu en C que je pratique depuis 20 ans, ce langage me fait manger mais je deteste.
+Le dimanche je fait du Ruby pour me reposer le cerveau et j&#8217;essaye de participer à la communauté pour rendre ce langage plus &#8220;business usable&#8221;.</p>
+
+<p>Merci Camille de nous pointer vers cet indice qui nous montre que notre enthousiasme pour les langages moderne n&#8217;est pas refléter par le marché.</p>
+
+<p>Aller les gars !!!
+Il faut pousser encore plus fort et convaincre les donneurs d&#8217;ordre pour que le TIOBE représente enfin la popularité du coeur des programmeurs.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Subject Following to better filter social network posts]]></title>
