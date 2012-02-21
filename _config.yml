@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://harakys-octopress.heroku.com
+url: http://blog.harakys.com
 title: Harakys Coding Tales
 subtitle: An old programmer adventures in a word of startupers.
 author: Yann ARMAND
@@ -92,7 +92,7 @@ disqus_short_name: harakys-octopress
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-25674684-2
 
 # Facebook Like
 facebook_like: false

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Harakys Coding Tales]]></title>
-  <link href="http://harakys-octopress.heroku.com/atom.xml" rel="self"/>
-  <link href="http://harakys-octopress.heroku.com/"/>
-  <updated>2012-02-21T01:45:23+01:00</updated>
-  <id>http://harakys-octopress.heroku.com/</id>
+  <link href="http://blog.harakys.com/atom.xml" rel="self"/>
+  <link href="http://blog.harakys.com/"/>
+  <updated>2012-02-21T14:13:43+01:00</updated>
+  <id>http://blog.harakys.com/</id>
   <author>
     <name><![CDATA[Yann ARMAND]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Embed markdown into your HTML]]></title>
-    <link href="http://harakys-octopress.heroku.com/blog/2012/02/21/embed-markdown-into-your-html/"/>
+    <link href="http://blog.harakys.com/blog/2012/02/21/embed-markdown-into-your-html/"/>
     <updated>2012-02-21T01:23:00+01:00</updated>
-    <id>http://harakys-octopress.heroku.com/blog/2012/02/21/embed-markdown-into-your-html</id>
+    <id>http://blog.harakys.com/blog/2012/02/21/embed-markdown-into-your-html</id>
     <content type="html"><![CDATA[<p>Sometime when you write documentation or HTML5 presentation (using
 slide.js for instance), you want to write a part of the document an
 easier way.</p>
@@ -106,10 +106,10 @@ magick, I do the conversion on all markdown I can find in the file :</p>
   
   <entry>
     <title type="html"><![CDATA[Pour une vrai popularité représentée par l'indice TIOBE]]></title>
-    <link href="http://harakys-octopress.heroku.com/blog/2011/12/07/pour-une-vrai-popularite-representee-par-lindice-tiobe/"/>
+    <link href="http://blog.harakys.com/blog/2011/12/07/pour-une-vrai-popularite-representee-par-lindice-tiobe/"/>
     <updated>2011-12-07T15:17:00+01:00</updated>
-    <id>http://harakys-octopress.heroku.com/blog/2011/12/07/pour-une-vrai-popularite-representee-par-lindice-tiobe</id>
-    <content type="html"><![CDATA[<p><img src="http://harakys-octopress.heroku.com/images/post_icons/tiobe.png" class="post_icon float_left" alt="Tiobe icon"></p>
+    <id>http://blog.harakys.com/blog/2011/12/07/pour-une-vrai-popularite-representee-par-lindice-tiobe</id>
+    <content type="html"><![CDATA[<p><img src="http://blog.harakys.com/images/post_icons/tiobe.png" class="post_icon float_left" alt="Tiobe icon"></p>
 
 <p><a href="http://www.camilleroux.com/">Camile Roux</a> nous indique sur <a href="http://rubylive.fr/items/157-ruby-toujours-11eme-au-classement-tiobe">RubyLive</a> que Ruby conserve sa 11eme place, juste derrière Javascript au classement <a href="www.tiobe.com">TIOBE</a></p>
 
@@ -131,10 +131,10 @@ Il faut pousser encore plus fort et convaincre les donneurs d&#8217;ordre pour q
   
   <entry>
     <title type="html"><![CDATA[Subject Following to better filter social network posts]]></title>
-    <link href="http://harakys-octopress.heroku.com/blog/2011/09/26/subject-following-to-better-filter-social-network-posts/"/>
+    <link href="http://blog.harakys.com/blog/2011/09/26/subject-following-to-better-filter-social-network-posts/"/>
     <updated>2011-09-26T14:26:00+02:00</updated>
-    <id>http://harakys-octopress.heroku.com/blog/2011/09/26/subject-following-to-better-filter-social-network-posts</id>
-    <content type="html"><![CDATA[<p><img src='http://harakys-octopress.heroku.com/images/post_icons/who_follow.png' class='post_icon float_right' alt='who follow'/>
+    <id>http://blog.harakys.com/blog/2011/09/26/subject-following-to-better-filter-social-network-posts</id>
+    <content type="html"><![CDATA[<p><img src='http://blog.harakys.com/images/post_icons/who_follow.png' class='post_icon float_right' alt='who follow'/>
 <a href="http://twitter.com/#!/yarmand">Twitter</a> introduced public posting and <strong>follow</strong> concept from the beginning
 and have been copied by <a href="https://plus.google.com/104135330570501675673">Google+</a> and more recently by <a href="https://www.facebook.com/yann.armand">Facebook</a> with the <a href="https://www.facebook.com/about/subscribe">subscribe button</a>.</p>
 
@@ -160,9 +160,9 @@ I should post to a subject the same way today I post to a <a href="http://www.go
   
   <entry>
     <title type="html"><![CDATA[Javascript initializers to your views with Rails 3.1 and CoffeeScript]]></title>
-    <link href="http://harakys-octopress.heroku.com/blog/2011/09/05/javascript-initializers-to-your-views-with-rails-3-dot-1-and-coffeescript/"/>
+    <link href="http://blog.harakys.com/blog/2011/09/05/javascript-initializers-to-your-views-with-rails-3-dot-1-and-coffeescript/"/>
     <updated>2011-09-05T08:56:00+02:00</updated>
-    <id>http://harakys-octopress.heroku.com/blog/2011/09/05/javascript-initializers-to-your-views-with-rails-3-dot-1-and-coffeescript</id>
+    <id>http://blog.harakys.com/blog/2011/09/05/javascript-initializers-to-your-views-with-rails-3-dot-1-and-coffeescript</id>
     <content type="html"><![CDATA[<h1>The Problem</h1>
 
 <p>With the asset pipeline included in Rails 3.1, we have a great big javascript file including all at once our code.</p>
@@ -418,10 +418,10 @@ I should post to a subject the same way today I post to a <a href="http://www.go
   
   <entry>
     <title type="html"><![CDATA[Rework: the book from 37 signals founders]]></title>
-    <link href="http://harakys-octopress.heroku.com/blog/2011/06/20/rework-the-book-from-37-signals-founders/"/>
+    <link href="http://blog.harakys.com/blog/2011/06/20/rework-the-book-from-37-signals-founders/"/>
     <updated>2011-06-20T09:23:00+02:00</updated>
-    <id>http://harakys-octopress.heroku.com/blog/2011/06/20/rework-the-book-from-37-signals-founders</id>
-    <content type="html"><![CDATA[<p><img src='http://harakys-octopress.heroku.com/images/post_icons/art-planningisguessing.png' class='post_icon float_left' alt='rework'></p>
+    <id>http://blog.harakys.com/blog/2011/06/20/rework-the-book-from-37-signals-founders</id>
+    <content type="html"><![CDATA[<p><img src='http://blog.harakys.com/images/post_icons/art-planningisguessing.png' class='post_icon float_left' alt='rework'></p>
 
 <p><a href="http://37signals.com/rework/">a Great book</a></p>
 
